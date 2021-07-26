@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jotaprogramming
-- 👀 I’m interested in ...
+- 👀 I’m interested in programming, video games and their creation, drawing and music.
 - 🌱 I’m currently learning Git, Blender and Node.js
 - 💞️ I’m looking to collaborate on C#, Python, ASP.NET MVC and the above mentioned
 - 📫 How to reach me by email: yesidlds54@gmail.com

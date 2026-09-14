@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @jotaprogramming
-- 👀 I’m interested in programming, video games and their creation, drawing and music.
-- 🌱 I’m currently learning Git, Blender and Node.js
-- 💞️ I’m looking to collaborate on C#, Python, ASP.NET MVC and the above mentioned
-- 📫 How to reach me by email: jy.guerrero22@gmail.com
+### Jerson Guerrero — Ingeniero de Software
 
-<!---
-jotaprogramming/jotaprogramming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Lidero el diseño e integración de sistemas críticos de negocio: ERP, facturación electrónica y sistemas de distribución logística, en un entorno de retail con más de 24 puntos de venta.
+
+**En qué me enfoco hoy:**
+- Integración de sistemas complejos (ERP, facturación electrónica, POS)
+- Diagnóstico y resolución de problemas de consistencia de datos
+- Arquitectura de soluciones bajo restricciones reales de negocio
+
+**Explorando:**
+- Arquitectura de software y arquitectura de soluciones
+- Seguridad informática / hacking ético
+- IA aplicada al desarrollo de software
+
+📫 jy.guerrero22@gmail.com · [LinkedIn](https://linkedin.com/in/jyguerrero22)
+
+Mira mis [proyectos y casos de estudio](enlace-al-repo-de-portafolio) para más detalle.

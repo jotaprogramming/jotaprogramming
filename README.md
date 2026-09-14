@@ -14,4 +14,4 @@ Lidero el diseño e integración de sistemas críticos de negocio: ERP, facturac
 
 📫 jy.guerrero22@gmail.com · [LinkedIn](https://linkedin.com/in/jyguerrero22)
 
-Mira mis [proyectos y casos de estudio](enlace-al-repo-de-portafolio) para más detalle.
+Mira mis [proyectos y casos de estudio](https://github.com/jotaprogramming/case-studies) para más detalle.
